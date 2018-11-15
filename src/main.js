@@ -6,6 +6,11 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import store from './store'
+import {Swipe, SwipeItem,Button } from 'mint-ui'
+
+Vue.component(Swipe.name, Swipe);
+Vue.component(SwipeItem.name, SwipeItem);
+Vue.component(Button.name, Button);
 
 new Vue({
   el: '#app',

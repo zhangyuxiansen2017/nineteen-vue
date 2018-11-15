@@ -1,6 +1,6 @@
-# nineteen
+# Nineteennpm
 
-> A Vue.js project
+> A Nineteen
 
 ## Build Setup
 

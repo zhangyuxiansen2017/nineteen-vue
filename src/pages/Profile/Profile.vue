@@ -89,6 +89,9 @@
         </div>
       </a>
     </section>
+    <section>
+      <mt-button size="small" type="danger" @click.native="logout" style="left: 40%">退出登录</mt-button>
+    </section>
   </section>
 </template>
 
